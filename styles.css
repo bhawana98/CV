@@ -1,0 +1,17 @@
+body{
+  background-color:powderblue;
+}
+
+h1{
+  color:teal;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  height: 2px;
+}
+img{
+  height:150px;
+  width: 150px;
+}
